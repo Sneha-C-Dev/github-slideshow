@@ -8,5 +8,5 @@ Use the right arrow to begin!
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+This is the new line.
 Use the left arrow to go back!
